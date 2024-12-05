@@ -1,1 +1,2 @@
-# Read-Me
+# Angelina Renfroe - Web Developer
+My name is Angelina and I am a Full-Stack Web Developer who loves creative problem solving. I got a introduction to programming when I took an Android game development course in junior college. While the course was more 3D animations focused, I was imminently taken but the world of programming. I always had strong interest in identifying problems and finding the most suitable solutions with the given constraints. The challenges and research required to implement new technologies exhilarates me.  I realized in this course that I wanted to learn, problem-solve, and use these new skills to create websites and applications that show what can be done when one believes any problem can be solved.
